@@ -15,7 +15,7 @@ Selwuch to Oracle
 
 {(1)(U)(U)}
 
-Whenever a creature enters the battlefield under you controll you may draw a card.
+Whenever a creature enters the battlefield under you control you may draw a card.
 
 {0}{3}
 
